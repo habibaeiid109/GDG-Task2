@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4c545d;
+    text-align: center;
+}
+
+.header {
+    background-image: url("../images/bg-header-desktop.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding: 80px 20px;
+}
+
+.logo {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 15px;
+}
+
+p {
+    max-width: 500px;
+    margin: auto;
+}
+
+.buttons {
+    margin-top: 25px;
+}
+
+button {
+    border: none;
+    border-radius: 25px;
+    padding: 15px;
+    color: white;
+    margin: 10px;
+}
+
+.ios {
+    background-color: rgb(34, 177, 151);
+}
+
+.mac {
+    background-color: rgb(140, 77, 199);
+}
+
+.track {
+    padding: 70px 0;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.track p {
+    max-width: 500px;
+    margin: auto;
+}
+
+.computer {
+    display: inline-block;
+    width: 55%;
+    margin-top: 70px;
+    margin-right: 5%;
+    vertical-align: middle;
+}
+
+.computer img {
+    width: 100%;
+    margin-left: -60px;
+}
+
+.features {
+    display: inline-block;
+    width: 30%;
+    text-align: left;
+    margin-left: 5%;
+}
+
+.feature {
+    margin-bottom: 30px;
+    
+}
+
+.feature h3 {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.feature p {
+    text-align: left;
+}
+
+.access {
+    padding: 60px 15px;
+}
+
+.devices {
+    width: 70%;
+    margin: 80px auto 0;
+}
+
+.devices img {
+    width: 100%;
+}
+
+.overflow {
+    padding: 60px 20px;
+}
+
+.items {
+    margin-top: 60px;
+}
+
+.item {
+    display: inline-block;
+    width: 28%;
+    margin: 0 2%;
+}
+
+.icon {
+    margin-bottom: 20px ;
+}
+
+.items h3 {
+    margin-bottom: 15px;
+}
+
+.icons {
+    padding: 70px 10px;
+}
+
+.icons div {
+    display: inline-block;
+    margin: 20px 3%;
+}
+
+.download {
+    padding: 50px 15px 80px;
+}
+
+.footer {
+    background-color: rgb(243, 237, 237);
+    padding: 30px 8%;
+    text-align: left;
+}
+
+.footer-logo {
+    display: inline-block;
+}
+
+.footer-logo img {
+    width: 20%;
+}
+
+.links {
+    display: inline-block;
+    width: 60%;
+    text-align: left;
+}
+
+.links a {
+    display: inline-block;
+    width: 30%;
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+
+.social {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+}
+
+.social img {
+    margin-left: 10px;
+}
